@@ -5,7 +5,7 @@ Applies action gradient to perturb actions towards maximizer of Q-function.
 
 a_t <- a_t + \eta * \grad_a Q(s, a)
 
-Do not support pixel input right now.
+Does not support pixel input right now.
 
 """
 
